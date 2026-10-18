@@ -2,6 +2,7 @@
 
 スマホ・PCどちらからでも、ここを開けば同じ前提で話が始まります。
 
+- **PCでやること** → [PC側でやること.md](PC側でやること.md)（三上の型のうちPCが要る4件の手順書）
 - **全体の地図** → [CLAUDE.md](CLAUDE.md)（セッション開始時に自動で読まれます）
 - **アドネス株式会社** → [contexts/addness.md](contexts/addness.md)
 - **（有）髙山建設** → [contexts/takayama-kensetsu.md](contexts/takayama-kensetsu.md)
