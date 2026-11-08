@@ -21,3 +21,7 @@
 - [readme-is-a-map](readme-is-a-map.md) — フォルダの README は地図だけ。進み具合はAddnessへ
 - [explain-reasons-to-ai](explain-reasons-to-ai.md) — AIへの説明は、禁止の羅列ではなく、なぜそうするかを書く
 - [ask-only-for-irreversible](ask-only-for-irreversible.md) — 止まって許可を取るのは戻せない操作だけ。戻せる作業は任された範囲で進める
+
+## 本人から直されたこと
+
+- [check-calendar-before-scheduling](check-calendar-before-scheduling.md) — 日程を合わせる時は、まず本人のGoogleカレンダーでその日を丸ごと見てから判断する
